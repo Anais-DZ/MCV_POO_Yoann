@@ -1,2 +1,4 @@
 # MCV_POO_Yoann
-exercice Task
+
+
+Tous les exercices avec Yoann, éval comprises
